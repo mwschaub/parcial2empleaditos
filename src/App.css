@@ -1,0 +1,50 @@
+.contenedor-principal {
+  background-color: white;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.encabezado-basico {
+  background-color: blue;
+  color: white;
+  border: 5px solid green;
+  padding: 15px;
+  text-align: center;
+}
+
+.caja-busqueda {
+  background-color: green;
+  color: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 3px solid blue;
+  font-size: 18px;
+}
+
+.caja-busqueda input {
+  font-size: 16px;
+  padding: 5px;
+  color: blue;
+}
+
+.tabla-fea {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+
+.tabla-fea th {
+  background-color: blue;
+  color: white;
+  border: 4px solid green;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.tabla-fea td {
+  border: 2px solid green;
+  color: blue;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
